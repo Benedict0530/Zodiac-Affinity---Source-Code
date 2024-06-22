@@ -1,0 +1,45 @@
+name: zodiac_affinity_flutter
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Aries.png
+    - assets/Taurus.png
+    - assets/Gemini.png
+    - assets/Cancer.png
+    - assets/Leo.png
+    - assets/Virgo.png
+    - assets/Libra.png
+    - assets/Scorpio.png
+    - assets/Sagittarius.png
+    - assets/Capricorn.png
+    - assets/Aquarius.png
+    - assets/Pisces.png
+    - assets/background.png
+    - assets/check_nav.png
+    - assets/icon.png
+    - assets/nav.png
+
+  fonts:
+    - family: Boorsok
+      fonts:
+        - asset: assets/fonts/boorsok.otf
