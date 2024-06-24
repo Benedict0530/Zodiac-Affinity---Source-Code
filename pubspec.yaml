@@ -22,22 +22,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/Aries.png
-    - assets/Taurus.png
-    - assets/Gemini.png
-    - assets/Cancer.png
-    - assets/Leo.png
-    - assets/Virgo.png
-    - assets/Libra.png
-    - assets/Scorpio.png
-    - assets/Sagittarius.png
-    - assets/Capricorn.png
-    - assets/Aquarius.png
-    - assets/Pisces.png
-    - assets/background.png
-    - assets/check_nav.png
-    - assets/icon.png
-    - assets/nav.png
+    - assets/
 
   fonts:
     - family: Boorsok
